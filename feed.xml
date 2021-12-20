@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>nichewebsitesociety</title>
+    <link href="https://tylerbishopdev.github.io/nichewebsitesociety/feed.xml" rel="self" />
+    <link href="https://tylerbishopdev.github.io/nichewebsitesociety" />
+    <updated>2021-12-19T15:57:20-08:00</updated>
+    <author>
+        <name>Founder</name>
+    </author>
+    <id>https://tylerbishopdev.github.io/nichewebsitesociety</id>
+
+    <entry>
+        <title>Members Only</title>
+        <author>
+            <name>Founder</name>
+        </author>
+        <link href="https://tylerbishopdev.github.io/nichewebsitesociety/members-only/"/>
+        <id>https://tylerbishopdev.github.io/nichewebsitesociety/members-only/</id>
+
+        <updated>2021-12-19T15:57:20-08:00</updated>
+            <summary>
+                <![CDATA[
+                     Members are currently busy building the web and all it's content. brb. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p class="align-center">
+    Members are currently busy building the web and all it's content. brb.
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

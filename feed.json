@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "nichewebsitesociety",
+    "description": "",
+    "home_page_url": "https://tylerbishopdev.github.io/nichewebsitesociety",
+    "feed_url": "https://tylerbishopdev.github.io/nichewebsitesociety/feed.json",
+    "user_comment": "",
+    "icon": "https://tylerbishopdev.github.io/nichewebsitesociety/media/website/logo-maker-for-a-handmade-clothing-brand-with-a-modern-typeface-3149a-1-3.png",
+    "author": {
+        "name": "Founder"
+    },
+    "items": [
+        {
+            "id": "https://tylerbishopdev.github.io/nichewebsitesociety/members-only/",
+            "url": "https://tylerbishopdev.github.io/nichewebsitesociety/members-only/",
+            "title": "Members Only",
+            "summary": " Members are currently busy building the web and all it's content. brb. ",
+            "content_html": "\n  <p class=\"align-center\">\n    Members are currently busy building the web and all it's content. brb.\n  </p>",
+            "author": {
+                "name": "Founder"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-12-18T17:04:42-08:00",
+            "date_modified": "2021-12-19T15:57:20-08:00"
+        }
+    ]
+}
